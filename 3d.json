@@ -1,0 +1,75 @@
+// 20191122123744
+// http://192.168.0.105:4000/lottery/all?limit=10
+
+[
+  {
+    "winDate": "2019-11-16",
+    "winPrice": "223",
+    "createdAt": "2019-11-20T23:43:56.302Z",
+    "updatedAt": "2019-11-20T23:43:56.302Z",
+    "objectId": "VvW2hVfE1i"
+  },
+  {
+    "winDate": "2019-11-01",
+    "winPrice": "375",
+    "createdAt": "2019-11-20T23:43:56.299Z",
+    "updatedAt": "2019-11-20T23:43:56.299Z",
+    "objectId": "SIiliFV6BB"
+  },
+  {
+    "winDate": "2019-10-16",
+    "winPrice": "564",
+    "createdAt": "2019-11-20T23:43:56.304Z",
+    "updatedAt": "2019-11-20T23:43:56.304Z",
+    "objectId": "RZrpriCXkP"
+  },
+  {
+    "winDate": "2019-10-01",
+    "winPrice": "197",
+    "createdAt": "2019-11-20T23:43:56.303Z",
+    "updatedAt": "2019-11-20T23:43:56.303Z",
+    "objectId": "SmEEte4MUo"
+  },
+  {
+    "winDate": "2019-09-16",
+    "winPrice": "388",
+    "createdAt": "2019-11-20T23:43:56.313Z",
+    "updatedAt": "2019-11-20T23:43:56.313Z",
+    "objectId": "RpGUniyGob"
+  },
+  {
+    "winDate": "2019-09-01",
+    "winPrice": "787",
+    "createdAt": "2019-11-20T23:43:56.317Z",
+    "updatedAt": "2019-11-20T23:43:56.317Z",
+    "objectId": "neMr5yINfc"
+  },
+  {
+    "winDate": "2019-08-16",
+    "winPrice": "476",
+    "createdAt": "2019-11-20T23:43:56.319Z",
+    "updatedAt": "2019-11-20T23:43:56.319Z",
+    "objectId": "n2vNm1DXrb"
+  },
+  {
+    "winDate": "2019-08-01",
+    "winPrice": "006",
+    "createdAt": "2019-11-20T23:43:56.321Z",
+    "updatedAt": "2019-11-20T23:43:56.321Z",
+    "objectId": "FvZpmPbuTx"
+  },
+  {
+    "winDate": "2019-07-15",
+    "winPrice": "765",
+    "createdAt": "2019-11-20T23:43:56.323Z",
+    "updatedAt": "2019-11-20T23:43:56.323Z",
+    "objectId": "eMDK0hNn7S"
+  },
+  {
+    "winDate": "2019-07-01",
+    "winPrice": "647",
+    "createdAt": "2019-11-20T23:43:56.325Z",
+    "updatedAt": "2019-11-20T23:43:56.325Z",
+    "objectId": "3wdqI94Xtx"
+  }
+]
